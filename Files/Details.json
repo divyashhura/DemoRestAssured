@@ -1,0 +1,12 @@
+{	"email":"divyash@gmail.com",
+	"name":"Divyash",
+	"lname":"singh",
+	"address":
+	{	"state":"punjab",
+		"city":"mohali",
+		"add":
+		{	"area":"sas nagar",
+			"pin":"111111"
+		}
+	}
+}
